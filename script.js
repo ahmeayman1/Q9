@@ -108,11 +108,6 @@ const questions = [
 {type:"mcq",q:"Numbness of feet with mental disturbance suggests:",options:[
 "Iron deficiency","Folate deficiency","Vitamin B12 deficiency","Vitamin D deficiency"],a:2},
 
-{type:"mcq",q:"Finding seen in folate deficiency but NOT B12 deficiency:",options:[
-"Large oval RBCs",
-"Hypersegmented neutrophils",
-"Reduced platelets",
-"Low serum iron"],a:2},
 
 {type:"mcq",q:"Why does kwashiorkor cause edema?",options:[
 "High calories",
